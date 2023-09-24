@@ -16,6 +16,7 @@
 
 | Commande           | Alias                            | Message                                                                                                     |  Annonce | 3ème personne | Réponse | Envoie auto |
 | ------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------- | :------: | :-----------: | :-----: | :---------: |
+| !farah             |                                  | Farah t'es géniale farah3                                                                                   | ❌       | ✅            | ❌      | ❌           |
 | !age               |                                  | Farah a XX ans mais elle a glitch sa vingtaine, c'est pour cela qu'elle semble bien plus jeune PowerUpR     | ❌       | ✅            | ❌      | ❌           |
 | !etudes            | !etude !droit !avocate           | 🎓 Farah est titulaire d'un Master en Droit privé Général.                                                  | ❌       | ✅            | ❌      | ❌           |
 | !origine           | !origines                        | Farah est originaire des Saintes montagnes de Kabylie, en Algérie ⛰                                        | ❌       | ✅            | ❌      | ❌           |
@@ -41,3 +42,24 @@
 |                    |         | 20%    | Tu n'as qu'à cliquer sur ton pseudo si tu veux savoir. Tu voulais flex ?  farahSmile                         |         |               |          |             |
 |                    |         | 15%    | Tu follows la chaîne depuis %âge% secondes, nous espérons que cette information te sera utile ! farahClown   |         |               |          |             |
 |                    |         | 15%    | Désolé, je n'ai pas envie de te répondre. Bonne soirée. farahPerplex                                         |         |               |          |             |
+
+## SUPER Modo
+
+| Commande           | Argument | Description                                                                                                      | Exemple      |
+| ------------------ | :------: | ---------------------------------------------------------------------------------------------------------------- | ------------ |
+| !taglist           | ❌       | Donne la liste des tags de la chaine                                                                             |              |
+| !tag               | ✅       | Ajoute un tag à la chaine. Sensible à la casse et aux accents. PAS d'ESPACES ! (25 caractères)                   | !tag Voyage  |
+| !untag             | ✅       | Supprime un tag de la chaine. Il doit rester au moins un tag sur la chaine.                                      | !untag Corée |
+
+## Modo
+
+| Commande           | Alias            | Argument | Description                                                                                                      | Exemple                                                |
+| ------------------ | ---------------- | :------: | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| !follows           |                  | ❌       | Donne le nombre exacte de follows.                                                                               |                                                        |
+| !titre             | !title           | ✅       | Modifie le titre du stream. (140 caractères)                                                                     | !titre 🇰🇷 IRL Séoul - Visite du Palais de Gyeongbokgung |
+| !cat               | !categorie !game | ✅       | Modifie la catégorie. Le nom de la catégorie doit être exacte et en anglais.                                     | !cat just chatting                                      |
+| !hasard            |                  | ✅       | Banissement temporaire d'une durée aléatoire d'un utilisateur. Un seul pseudo, avec ou sans @                    | !hasard @Skews                                          |
+| !contenu           |                  | ❌       | Affiche une description écrite par Teddy pour expliquer dans les grandes ligne le contenu de la chaine.          |                                                         |
+
+
+
