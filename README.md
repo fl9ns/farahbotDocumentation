@@ -1,3 +1,11 @@
+- [Pour tout le monde](#pour-tout-le-monde)
+- - [Réseaux sociaux](#réseaux-sociaux)
+- - [Informations diverses](#informations-diverses)
+- - [Soutien](#soutien)
+- - [Spéciale](#spéciale)
+- [SUPER Modo](#super-modo)
+- [Modo](#modo)
+
 # Commandes
 
 ## Pour tout le monde
