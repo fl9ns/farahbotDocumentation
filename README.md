@@ -1,8 +1,10 @@
+# Index
+
 - [Pour tout le monde](#pour-tout-le-monde)
-- - [Réseaux sociaux](#réseaux-sociaux)
-- - [Informations diverses](#informations-diverses)
-- - [Soutien](#soutien)
-- - [Spéciale](#spéciale)
+  - [Réseaux sociaux](#réseaux-sociaux)
+  - [Informations diverses](#informations-diverses)
+  - [Soutien](#soutien)
+  - [Spéciale](#spéciale)
 - [SUPER Modo](#super-modo)
 - [Modo](#modo)
 
