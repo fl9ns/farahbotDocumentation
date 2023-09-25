@@ -1,18 +1,21 @@
-# Index
+🔷 https://www.twitch.tv/Farah 🔷
 
-- [Pour tout le monde](#pour-tout-le-monde)
-  - [Réseaux sociaux](#réseaux-sociaux)
-  - [Informations diverses](#informations-diverses)
-  - [Soutien](#soutien)
-  - [Spéciale](#spéciale)
-- [SUPER Modo](#super-modo)
-- [Modo](#modo)
 
-# Commandes
+#
+- [Pour tout le monde](#-pour-tout-le-monde-)
+  - [Réseaux sociaux](#-r%C3%A9seaux-sociaux)
+  - [Informations diverses](#-informations-diverses)
+  - [Soutien](#-soutien)
+  - [Spécial](#-sp%C3%A9cial)
+- [SUPER Modo](#%EF%B8%8F-super-modo-%EF%B8%8F)
+- [Modo](#%EF%B8%8F-modo-%EF%B8%8F)
 
-## Pour tout le monde
 
-### Réseaux sociaux
+
+#
+#### 🥤 Pour tout le monde 🥤
+
+###### 🟪 Réseaux sociaux
 
 | Commande           | Alias              | Message                                                              | Annonce | 3ème personne | Réponse | Envoie auto |
 | ------------------ | ------------------ | -------------------------------------------------------------------- | :-----: | :-----------: | :-----: | :---------: |
@@ -22,7 +25,7 @@
 | !twitter           | !x                 | 🐦 Follow moi sur le réseau des zinzins ! ▶ twitter.com/FarahTwitch | ✅       | ❌            | ❌      | ❌           |
 | !youtube           | !yt                | 🎥 La chaîne Youtube ▶ youtube.com/c/FarahYT/?sub_confirmation=1    | ✅       | ❌            | ❌      | ❌           |
 
-### Informations diverses
+###### 🟪 Informations diverses
 
 | Commande           | Alias                            | Message                                                                                                     |  Annonce | 3ème personne | Réponse | Envoie auto |
 | ------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------- | :------: | :-----------: | :-----: | :---------: |
@@ -36,7 +39,7 @@
 | !pseudo            |                                  | Désolé pour les pseudos écorchés farahTimide                                                                | ❌       | ✅            | ❌      | ❌           |
 | !procesfictif      | !pf !proces                      | 👩🏻‍⚖️  Lors d'un procès fictif, chaque intervenant a un rôle à jouer, du plaignant à l'avocat. La plupart du temps Farah joue le rôle du juge. Il s'agit souvent de vraies affaires un peu loufoques qui ont été jugées dans la vraie vie, à l'étranger. À la fin, vous votez pour designer qui remporte le procès.                                                                                                 | ❌       | ✅            | ❌      | ❌           |
 
-### Soutien
+###### 🟪 Soutien
 
 | Commande           | Alias                            | Message                                                                                                      |  Annonce | 3ème personne | Réponse | Envoie auto |
 | ------------------ | -------------------------------- | ------------------------------------------------------------------------------------------------------------ | :------: | :-----------: | :-----: | :---------: |
@@ -44,7 +47,8 @@
 | !prime             |                                  | Avec AMAZON PRIME, profite d'un SUB GRATUIT tous les mois à la chaîne ! Et cela en plus de tous les autres avantages d'Amazon Prime ! ▶ gaming.amazon.com farahImpec                                                                                                                                                                                                                                                | ❌       | ✅            | ❌       | ✅ 35m       |
 | !subtember         |                                  | 📆 C'EST FOU ! Pendant tout le mois du SUBTEMBER, profitez d'une économie de 25% sur le prix de l'abonnement et des abonnements offerts ! ▶ go.twitch.tv/subs/farah                                                                                                                                                                                                                                                  | ❌       | ✅            | ❌       | ❌           |
 | !1000              | !kohlanta                        | 🔥 Si un jour, par le plus grand des hasards, nous atteignons les 1000 SUBS sur la chaîne, je m'inscris à l'emission KOH LANTA ! Ceci n'est PAS une blague ! ▶ https://clips.twitch.tv/SincereFairHerbsKlappa-6l_HPGWObPMZJR0S                                                                                                                                                                                       | ❌       | ✅            | ❌       | ❌           |
-### Spéciale
+
+###### 🟪 Spécial
 
 | Commande           | Alias   | Chance | Message                                                                                                      |  Annonce | 3ème personne | Réponse | Envoie auto |
 | ------------------ | ------- | ------ | ------------------------------------------------------------------------------------------------------------ | :------: | :-----------: | :-----: | :---------: |
@@ -53,7 +57,10 @@
 |                    |         | 15%    | Tu follows la chaîne depuis %âge% secondes, nous espérons que cette information te sera utile ! farahClown   |         |               |          |             |
 |                    |         | 15%    | Désolé, je n'ai pas envie de te répondre. Bonne soirée. farahPerplex                                         |         |               |          |             |
 
-## SUPER Modo
+
+
+#
+#### 🛠️ SUPER Modo 🛠️
 
 | Commande           | Argument | Description                                                                                                      | Exemple      |
 | ------------------ | :------: | ---------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -61,7 +68,10 @@
 | !tag               | ✅       | Ajoute un tag à la chaine. Sensible à la casse et aux accents. PAS d'ESPACES ! (25 caractères)                   | !tag Voyage  |
 | !untag             | ✅       | Supprime un tag de la chaine. Il doit rester au moins un tag sur la chaine.                                      | !untag Corée |
 
-## Modo
+
+
+#
+#### ⚔️ Modo ⚔️
 
 | Commande           | Alias            | Argument | Description                                                                                                      | Exemple                                                |
 | ------------------ | ---------------- | :------: | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
