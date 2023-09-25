@@ -17,13 +17,13 @@
 
 ###### 🟪 Réseaux sociaux
 
-| Commande           | Alias              | Message                                                              | Annonce | 3ème personne | Réponse | Envoie auto |
-| ------------------ | ------------------ | -------------------------------------------------------------------- | :-----: | :-----------: | :-----: | :---------: |
-| !discord           |                    | 💬 Rejoins la communauté sur Discord ▶ discord.gg/5fgX335KqS        | ✅       | ❌            | ❌      | ❌           |
-| !insta             | !instagram         | 📸 Rejoins moi sur Instagram ▶ instagram.com/FarahTwitch            | ✅       | ❌            | ❌      | ✅ 1h        |
-| !tiktok            |                    | ✨ Tu peux aussi me retrouver sur Tiktok ▶ tiktok.com/@farahtwitch  | ✅       | ❌            | ❌      | ❌           |
-| !twitter           | !x                 | 🐦 Follow moi sur le réseau des zinzins ! ▶ twitter.com/FarahTwitch | ✅       | ❌            | ❌      | ❌           |
-| !youtube           | !yt                | 🎥 La chaîne Youtube ▶ youtube.com/c/FarahYT/?sub_confirmation=1    | ✅       | ❌            | ❌      | ❌           |
+| Commande           | Alias              | Message                                                                                                                | Annonce | 3ème personne | Réponse | Envoie auto |
+| ------------------ | ------------------ | ---------------------------------------------------------------------------------------------------------------------- | :-----: | :-----------: | :-----: | :---------: |
+| !discord           |                    | 💬 Rejoins la communauté sur Discord ▶ [discord.gg/5fgX335KqS](https://discord.gg/5fgX335KqS)                         | ✅       | ❌            | ❌      | ❌           |
+| !insta             | !instagram         | 📸 Rejoins moi sur Instagram ▶ [instagram.com/FarahTwitch](https://instagram.com/FarahTwitch)                         | ✅       | ❌            | ❌      | ✅ 1h        |
+| !tiktok            |                    | ✨ Tu peux aussi me retrouver sur Tiktok ▶ [tiktok.com/@farahtwitch](https://tiktok.com/@farahtwitch)                 | ✅       | ❌            | ❌      | ❌           |
+| !twitter           | !x                 | 🐦 Follow moi sur le réseau des zinzins ! ▶ [twitter.com/FarahTwitch](https://twitter.com/FarahTwitch)                | ✅       | ❌            | ❌      | ❌           |
+| !youtube           | !yt                | 🎥 La chaîne Youtube ▶ [youtube.com/c/FarahYT/?sub_confirmation=1](https://youtube.com/c/FarahYT/?sub_confirmation=1) | ✅       | ❌            | ❌      | ❌           |
 
 ###### 🟪 Informations diverses
 
@@ -35,9 +35,9 @@
 | !origine           | !origines                        | Farah est originaire des Saintes montagnes de Kabylie, en Algérie ⛰                                        | ❌       | ✅            | ❌      | ❌           |
 | !osaka             | !chien                           | Osaka est le chien de Farah, un malinois de X ans OhMyDog                                                   | ❌       | ✅            | ❌      | ❌           |
 | !config            | !pc !cfg                         | 🖥 Ryzen 5 3600 / RTX 2060 Super / 32Go RAM DDR4                                                             | ❌       | ✅            | ❌      | ❌           |
-| !stats             | !stat !statistique !statistiques | Les stats du chat ▶ stats.streamelements.com/c/farah  farahPop                                             | ❌       | ✅            | ❌      | ❌           |
+| !stats             | !stat !statistique !statistiques | Les stats du chat ▶ [stats.streamelements.com/c/farah](https://stats.streamelements.com/c/farah) farahPop  | ❌       | ✅            | ❌      | ❌           |
 | !pseudo            |                                  | Désolé pour les pseudos écorchés farahTimide                                                                | ❌       | ✅            | ❌      | ❌           |
-| !procesfictif      | !pf !proces                      | 👩🏻‍⚖️  Lors d'un procès fictif, chaque intervenant a un rôle à jouer, du plaignant à l'avocat. La plupart du temps Farah joue le rôle du juge. Il s'agit souvent de vraies affaires un peu loufoques qui ont été jugées dans la vraie vie, à l'étranger. À la fin, vous votez pour designer qui remporte le procès.                                                                                                 | ❌       | ✅            | ❌      | ❌           |
+| !procesfictif      | !pf !proces                      | 👩🏻‍⚖️  Lors d'un procès fictif, chaque intervenant a un rôle à jouer, du plaignant à l'avocat. La plupart du temps Farah joue le rôle du juge. Il s'agit souvent de vraies affaires un peu loufoques qui ont été jugées dans la vraie vie, à l'étranger. À la fin, vous votez pour designer qui remporte le procès.                                                                                                | ❌       | ✅            | ❌      | ❌           |
 
 ###### 🟪 Soutien
 
@@ -45,7 +45,7 @@
 | ------------------ | -------------------------------- | ------------------------------------------------------------------------------------------------------------ | :------: | :-----------: | :-----: | :---------: |
 | !don               | !donation                        | farahRiche Tu peux soutenir la chaîne en faisant un don ici ▶ streamelements.com/farah-3136/tip farahRiche  | ❌       | ✅            | ❌       | ❌           |
 | !prime             |                                  | Avec AMAZON PRIME, profite d'un SUB GRATUIT tous les mois à la chaîne ! Et cela en plus de tous les autres avantages d'Amazon Prime ! ▶ gaming.amazon.com farahImpec                                                                                                                                                                                                                                                | ❌       | ✅            | ❌       | ✅ 35m       |
-| !subtember         |                                  | 📆 C'EST FOU ! Pendant tout le mois du SUBTEMBER, profitez d'une économie de 25% sur le prix de l'abonnement et des abonnements offerts ! ▶ go.twitch.tv/subs/farah                                                                                                                                                                                                                                                  | ❌       | ✅            | ❌       | ❌           |
+| !subtember         |                                  | 📆 C'EST FOU ! Pendant tout le mois du SUBTEMBER, profitez d'une économie de 25% sur le prix de l'abonnement et des abonnements offerts ! ▶ [go.twitch.tv/subs/farah](https://go.twitch.tv/subs/farah)                                                                                                                                                                                                               | ❌       | ✅            | ❌       | ❌           |
 | !1000              | !kohlanta                        | 🔥 Si un jour, par le plus grand des hasards, nous atteignons les 1000 SUBS sur la chaîne, je m'inscris à l'emission KOH LANTA ! Ceci n'est PAS une blague ! ▶ https://clips.twitch.tv/SincereFairHerbsKlappa-6l_HPGWObPMZJR0S                                                                                                                                                                                       | ❌       | ✅            | ❌       | ❌           |
 
 ###### 🟪 Spécial
