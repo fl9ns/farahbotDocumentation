@@ -13,9 +13,9 @@
 
 
 #
-#### 🥤 Pour tout le monde 🥤
+#### <img alt="🥤" title="🥤" src="https://static-cdn.jtvnw.net/badges/v1/14fc7ca7-8cdd-4f21-9bea-42aa9cc06b0d/1" width="16" height="16"> Pour tout le monde <img alt="🥤" title="🥤" src="https://static-cdn.jtvnw.net/badges/v1/14fc7ca7-8cdd-4f21-9bea-42aa9cc06b0d/1" width="16" height="16">
 
-###### 🟪 Réseaux sociaux
+###### <img alt="🥤" title="🥤" src="https://static-cdn.jtvnw.net/badges/v1/d9928bb6-b372-40a9-8750-1b31d06de0a4/1" width="16" height="16"> Réseaux sociaux
 
 | Commande           | Alias              | Message                                                                                                                | Annonce | 3ème personne | Réponse | Envoie auto |
 | ------------------ | ------------------ | ---------------------------------------------------------------------------------------------------------------------- | :-----: | :-----------: | :-----: | :---------: |
@@ -25,7 +25,7 @@
 | !twitter           | !x                 | 🐦 Follow moi sur le réseau des zinzins ! ▶ [twitter.com/FarahTwitch](https://twitter.com/FarahTwitch)                | ✅       | ❌            | ❌      | ❌           |
 | !youtube           | !yt                | 🎥 La chaîne Youtube ▶ [youtube.com/c/FarahYT/?sub_confirmation=1](https://youtube.com/c/FarahYT/?sub_confirmation=1) | ✅       | ❌            | ❌      | ❌           |
 
-###### 🟪 Informations diverses
+###### <img alt="🥤" title="🥤" src="https://static-cdn.jtvnw.net/badges/v1/a8106900-8f5e-4355-85e2-44037edf391b/1" width="16" height="16"> Informations diverses
 
 | Commande           | Alias                            | Message                                                                                                                             |  Annonce | 3ème personne | Réponse | Envoie auto |
 | ------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | :------: | :-----------: | :-----: | :---------: |
@@ -39,7 +39,7 @@
 | !pseudo            |                                  | Désolé pour les pseudos écorchés <img alt="farahTimide" title="farahTimide" src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_12ca2e236a96467d98b317465febec9d/default/dark/1.0" width="16" height="16">                                                                                                                                                                                                                              | ❌       | ✅            | ❌      | ❌           |
 | !procesfictif      | !pf !proces                      | 👩🏻‍⚖️  Lors d'un procès fictif, chaque intervenant a un rôle à jouer, du plaignant à l'avocat. La plupart du temps Farah joue le rôle du juge. Il s'agit souvent de vraies affaires un peu loufoques qui ont été jugées dans la vraie vie, à l'étranger. À la fin, vous votez pour designer qui remporte le procès.                                                                                                                        | ❌       | ✅            | ❌      | ❌           |
 
-###### 🟪 Soutien
+###### <img alt="🥤" title="🥤" src="https://static-cdn.jtvnw.net/badges/v1/4eb8555b-5ff4-4111-bea8-0bec174ab4e7/1" width="16" height="16"> Soutien
 
 | Commande           | Alias                            | Message                                                                                                      |  Annonce | 3ème personne | Réponse | Envoie auto |
 | ------------------ | -------------------------------- | ------------------------------------------------------------------------------------------------------------ | :------: | :-----------: | :-----: | :---------: |
@@ -48,7 +48,7 @@
 | !subtember         |                                  | 📆 C'EST FOU ! Pendant tout le mois du SUBTEMBER, profitez d'une économie de 25% sur le prix de l'abonnement et des abonnements offerts ! ▶ [go.twitch.tv/subs/farah](https://go.twitch.tv/subs/farah)                                                                                                                                                                                                               | ❌       | ✅            | ❌       | ❌           |
 | !1000              | !kohlanta                        | 🔥 Si un jour, par le plus grand des hasards, nous atteignons les 1000 SUBS sur la chaîne, je m'inscris à l'emission KOH LANTA ! Ceci n'est PAS une blague ! ▶ https://clips.twitch.tv/SincereFairHerbsKlappa-6l_HPGWObPMZJR0S                                                                                                                                                                                       | ❌       | ✅            | ❌       | ❌           |
 
-###### 🟪 Spécial
+###### <img alt="🥤" title="🥤" src="https://static-cdn.jtvnw.net/badges/v1/0c08341d-bde9-4f11-a703-4ccf592a0fbc/1" width="16" height="16"> Spécial
 
 | Commande           | Alias   | Chance | Message                                                                                                      |  Annonce | 3ème personne | Réponse | Envoie auto |
 | ------------------ | ------- | ------ | ------------------------------------------------------------------------------------------------------------ | :------: | :-----------: | :-----: | :---------: |
