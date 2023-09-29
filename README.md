@@ -15,6 +15,8 @@
 #
 #### <img src="https://static-cdn.jtvnw.net/badges/v1/14fc7ca7-8cdd-4f21-9bea-42aa9cc06b0d/1" width="16" height="16"> Pour tout le monde
 
+
+
 ###### <img src="https://static-cdn.jtvnw.net/badges/v1/d9928bb6-b372-40a9-8750-1b31d06de0a4/1" width="16" height="16"> Réseaux sociaux
 
 | Commande           | Alias              | Message                                                                                                                | Annonce | 3ème personne | Réponse | Envoie auto |
@@ -24,6 +26,8 @@
 | !tiktok            |                    | ✨ Tu peux aussi me retrouver sur Tiktok ▶ [tiktok.com/@farahtwitch](https://tiktok.com/@farahtwitch)                 | ✅       | ❌            | ❌      | ❌           |
 | !twitter           | !x                 | 🐦 Follow moi sur le réseau des zinzins ! ▶ [twitter.com/FarahTwitch](https://twitter.com/FarahTwitch)                | ✅       | ❌            | ❌      | ❌           |
 | !youtube           | !yt                | 🎥 La chaîne Youtube ▶ [youtube.com/c/FarahYT/?sub_confirmation=1](https://youtube.com/c/FarahYT/?sub_confirmation=1) | ✅       | ❌            | ❌      | ❌           |
+
+
 
 ###### <img src="https://static-cdn.jtvnw.net/badges/v1/a8106900-8f5e-4355-85e2-44037edf391b/1" width="16" height="16"> Informations diverses
 
@@ -39,14 +43,20 @@
 | !pseudo            |                                  | Désolé pour les pseudos écorchés <img alt="farahTimide" title="farahTimide" src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_12ca2e236a96467d98b317465febec9d/default/dark/1.0" width="16" height="16">                                                                                                                                                                                                                              | ❌       | ✅            | ❌      | ❌           |
 | !procesfictif      | !pf !proces                      | 👩🏻‍⚖️  Lors d'un procès fictif, chaque intervenant a un rôle à jouer, du plaignant à l'avocat. La plupart du temps Farah joue le rôle du juge. Il s'agit souvent de vraies affaires un peu loufoques qui ont été jugées dans la vraie vie, à l'étranger. À la fin, vous votez pour designer qui remporte le procès.                                                                                                                        | ❌       | ✅            | ❌      | ❌           |
 
+
+
 ###### <img src="https://static-cdn.jtvnw.net/badges/v1/4eb8555b-5ff4-4111-bea8-0bec174ab4e7/1" width="16" height="16"> Soutien
 
 | Commande           | Alias                            | Message                                                                                                      |  Annonce | 3ème personne | Réponse | Envoie auto |
 | ------------------ | -------------------------------- | ------------------------------------------------------------------------------------------------------------ | :------: | :-----------: | :-----: | :---------: |
 | !don               | !donation                        | <img alt="farahRiche" title="farahRiche" src="https://static-cdn.jtvnw.net/emoticons/v2/304718542/default/dark/1.0" width="16" height="16"> Tu peux soutenir la chaîne en faisant un don ici ▶ streamelements.com/farah-3136/tip <img alt="farahRiche" title="farahRiche" src="https://static-cdn.jtvnw.net/emoticons/v2/304718542/default/dark/1.0" width="16" height="16">                                 | ❌       | ✅            | ❌       | ❌           |
 | !prime             |                                  | Avec AMAZON PRIME, profite d'un SUB GRATUIT tous les mois à la chaîne ! Et cela en plus de tous les autres avantages d'Amazon Prime ! ▶ [gaming.amazon.com](https://gaming.amazon.com) <img alt="farahImpec" title="farahImpec" src="https://static-cdn.jtvnw.net/emoticons/v2/302623124/default/dark/1.0" width="16" height="16">                                                                                                                                                                                                                   | ❌       | ✅            | ❌       | ✅ 35m       |
-| !subtember         |                                  | 📆 C'EST FOU ! Pendant tout le mois du SUBTEMBER, profitez d'une économie de 25% sur le prix de l'abonnement et des abonnements offerts ! ▶ [go.twitch.tv/subs/farah](https://go.twitch.tv/subs/farah)                                                                                                                                                                                                               | ❌       | ✅            | ❌       | ❌           |
 | !1000              | !kohlanta                        | 🔥 Si un jour, par le plus grand des hasards, nous atteignons les 1000 SUBS sur la chaîne, je m'inscris à l'emission KOH LANTA ! Ceci n'est PAS une blague ! ▶ https://clips.twitch.tv/SincereFairHerbsKlappa-6l_HPGWObPMZJR0S                                                                                                                                                                                       | ❌       | ✅            | ❌       | ❌           |
+| !subtember         |                                  | 📆 C'EST FOU ! Pendant tout le mois du SUBTEMBER, profitez d'une économie de 25% sur le prix de l'abonnement et des abonnements offerts ! ▶ [go.twitch.tv/subs/farah](https://go.twitch.tv/subs/farah)                                                                                                                                                                                                               | ❌       | ✅            | ❌       | ❌           |
+
+*La commande **!subtember** est activée seulement au mois de Septembre (du **1er à minuit** jusqu'au **30 à 23h59**)*
+
+
 
 ###### <img src="https://static-cdn.jtvnw.net/badges/v1/0c08341d-bde9-4f11-a703-4ccf592a0fbc/1" width="16" height="16"> Spécial
 
