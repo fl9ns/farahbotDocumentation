@@ -19,13 +19,13 @@
 
 ###### <img src="https://static-cdn.jtvnw.net/badges/v1/d9928bb6-b372-40a9-8750-1b31d06de0a4/1" width="16" height="16"> Réseaux sociaux
 
-| Commande           | Alias              | Message                                                                                                                | Annonce | 3ème personne | Réponse | Envoie auto |
-| ------------------ | ------------------ | ---------------------------------------------------------------------------------------------------------------------- | :-----: | :-----------: | :-----: | :---------: |
-| !discord           |                    | 💬 Rejoins la communauté sur Discord ▶ [discord.gg/5fgX335KqS](https://discord.gg/5fgX335KqS)                         | ✅       | ❌            | ❌      | ❌           |
-| !insta             | !instagram         | 📸 Rejoins moi sur Instagram ▶ [instagram.com/FarahTwitch](https://instagram.com/FarahTwitch)                         | ✅       | ❌            | ❌      | ✅ 1h        |
-| !tiktok            |                    | ✨ Tu peux aussi me retrouver sur Tiktok ▶ [tiktok.com/@farahtwitch](https://tiktok.com/@farahtwitch)                 | ✅       | ❌            | ❌      | ❌           |
-| !twitter           | !x                 | 🐦 Follow moi sur le réseau des zinzins ! ▶ [twitter.com/FarahTwitch](https://twitter.com/FarahTwitch)                | ✅       | ❌            | ❌      | ❌           |
-| !youtube           | !yt                | 🎥 La chaîne Youtube ▶ [youtube.com/c/FarahYT/?sub_confirmation=1](https://youtube.com/c/FarahYT/?sub_confirmation=1) | ✅       | ❌            | ❌      | ❌           |
+| Commande           | Alias              | Message                                                                                                                | Annonce  | 3ème personne | Réponse | Envoie auto |
+| ------------------ | ------------------ | ---------------------------------------------------------------------------------------------------------------------- | :-----:  | :-----------: | :-----: | :---------: |
+| !discord           |                    | 💬 Rejoins la communauté sur Discord ▶ [discord.gg/5fgX335KqS](https://discord.gg/5fgX335KqS)                         | ✅        | ❌            | ❌      | ❌           |
+| !insta             | !instagram         | 📸 Rejoins moi sur Instagram ▶ [instagram.com/FarahTwitch](https://instagram.com/FarahTwitch)                         | ✅ purple | ❌            | ❌      | ✅ 1h        |
+| !tiktok            |                    | ✨ Tu peux aussi me retrouver sur Tiktok ▶ [tiktok.com/@farahtwitch](https://tiktok.com/@farahtwitch)                 | ✅        | ❌            | ❌      | ❌           |
+| !twitter           | !x                 | 🐦 Follow moi sur le réseau des zinzins ! ▶ [twitter.com/FarahTwitch](https://twitter.com/FarahTwitch)                | ✅        | ❌            | ❌      | ❌           |
+| !youtube           | !yt                | 🎥 La chaîne Youtube ▶ [youtube.com/c/FarahYT/?sub_confirmation=1](https://youtube.com/c/FarahYT/?sub_confirmation=1) | ✅        | ❌            | ❌      | ❌           |
 
 
 
