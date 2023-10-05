@@ -21,11 +21,11 @@
 
 | Commande           | Alias              | Message                                                                                                                | Annonce  | 3ème personne | Réponse | Envoie auto |
 | ------------------ | ------------------ | ---------------------------------------------------------------------------------------------------------------------- | :-----:  | :-----------: | :-----: | :---------: |
-| !discord           |                    | 💬 Rejoins la communauté sur Discord ▶ [discord.gg/5fgX335KqS](https://discord.gg/5fgX335KqS)                         | ✅        | ❌            | ❌      | ❌           |
+| !discord           |                    | 💬 Rejoins la communauté sur Discord ▶ [discord.gg/5fgX335KqS](https://discord.gg/5fgX335KqS)                         | ✅ blue   | ❌            | ❌      | ❌           |
 | !insta             | !instagram         | 📸 Rejoins moi sur Instagram ▶ [instagram.com/FarahTwitch](https://instagram.com/FarahTwitch)                         | ✅ purple | ❌            | ❌      | ✅ 1h        |
-| !tiktok            |                    | ✨ Tu peux aussi me retrouver sur Tiktok ▶ [tiktok.com/@farahtwitch](https://tiktok.com/@farahtwitch)                 | ✅        | ❌            | ❌      | ❌           |
-| !twitter           | !x                 | 🐦 Follow moi sur le réseau des zinzins ! ▶ [twitter.com/FarahTwitch](https://twitter.com/FarahTwitch)                | ✅        | ❌            | ❌      | ❌           |
-| !youtube           | !yt                | 🎥 La chaîne Youtube ▶ [youtube.com/c/FarahYT/?sub_confirmation=1](https://youtube.com/c/FarahYT/?sub_confirmation=1) | ✅        | ❌            | ❌      | ❌           |
+| !tiktok            |                    | ✨ Tu peux aussi me retrouver sur Tiktok ▶ [tiktok.com/@farahtwitch](https://tiktok.com/@farahtwitch)                 | ✅ green  | ❌            | ❌      | ❌           |
+| !twitter           | !x                 | 🐦 Follow moi sur le réseau des zinzins ! ▶ [twitter.com/FarahTwitch](https://twitter.com/FarahTwitch)                | ✅ blue   | ❌            | ❌      | ❌           |
+| !youtube           | !yt                | 🎥 La chaîne Youtube ▶ [youtube.com/c/FarahYT/?sub_confirmation=1](https://youtube.com/c/FarahYT/?sub_confirmation=1) | ✅ orange | ❌            | ❌      | ❌           |
 
 
 
