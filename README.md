@@ -79,7 +79,7 @@
 | !cat               | !categorie !game | ✅       | Modifie la catégorie. Le nom de la catégorie doit être exacte et en anglais.                                     | !cat just chatting                                      |
 | !hasard            |                  | ✅       | Banissement temporaire d'une durée aléatoire d'un utilisateur. Un seul pseudo, avec ou sans @                    | !hasard @Skews                                          |
 | !contenu           |                  | ❌       | Affiche une description écrite par Teddy pour expliquer dans les grandes ligne le contenu de la chaine.          |                                                         |
-| !nissa             | !nini            | ❌       | Fait un shootout pour la chaine twitch de Nissakadena                                                            |                                                         |
+| !nissa             | !nini            | ❌       | Fait un shootout pour la chaine twitch de Nissakadena (ou une annonce si la limite de southout est atteinte)     |                                                         |
 
 
 
